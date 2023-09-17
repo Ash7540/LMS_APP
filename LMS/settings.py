@@ -130,13 +130,8 @@ LOGOUT_REDIRECT_URL = 'login'
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'ashuchavan774@gmail.com'
-EMAIL_HOST_PASSWORD = 'ydlcgvvaqusqwczt'
-# EMAIL_HOST_USER = 'Enter Email ID'
-# EMAIL_HOST_PASSWORD = 'Enter Password'
+EMAIL_HOST_USER = 'Enter Email ID'
+EMAIL_HOST_PASSWORD = 'Enter Password'
 
-KEY_ID = "rzp_test_SWfjJNK0nRhu15"
-KEY_SECRET = "YB9LuRZUJYjQCjD01CpZDY6S"
-
-# KEY_ID = "KEY ID"
-# KEY_SECRET = "KEY SECRET"
+KEY_ID = "KEY ID"
+KEY_SECRET = "KEY SECRET"
